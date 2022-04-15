@@ -24,3 +24,5 @@ Victim family’s leaders are required to register an account to declare their n
 Moreover, administration can be highly functional, structured and well organized. The management will have the details of all victims and their requirements under their watch. Hence, assistance is to be provided at a reasonable timespan. 
 Web application online forms help to gather and submit data in real-time so they can instantly share it with the main office or service providers in other departments or locations. Hence, making the data collection, as well as submission immensely faster. 
 Other than that, using online forms, management can automatically update spreadsheets with pre-submitted data, and data from the field can be submitted at the click of a button using a laptop/mobile device and organization can reduce the number of errors substantially.
+
+![](https://github.com/vmal09/FRCMS/blob/0c3df60f7b909b8a58d3f5681ba4feba6ec63e64/project%20description/Screenshot%202022-04-15%20172807.png)
